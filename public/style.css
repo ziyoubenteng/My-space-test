@@ -12,6 +12,8 @@
   color: #fce4ec;
 }
 
-#myname {
+.myname {
+  float:left;
+  margin-left:5px;
   color: #ffff00;
 }
