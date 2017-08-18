@@ -12,7 +12,7 @@
   color: #fce4ec;
 }
 
-.myname {
+.myphoto {
   height: 58px;
   width: 58px;
   display: inline-block;
@@ -22,4 +22,9 @@
   float: left;
   margin-right: 18px;
   cursor: default;
+}
+
+.myname {
+  font-size: 12px;
+  color: #ffff00;
 }
